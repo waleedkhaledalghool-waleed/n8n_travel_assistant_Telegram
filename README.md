@@ -17,10 +17,14 @@ I still have the results:
 <br>
 <br>
 <img width="346" height="463" alt="image" src="https://github.com/user-attachments/assets/1153f214-3f68-4c40-81bb-7fa7ab58195c" />
-
-<img width="346" height="463" alt="image" src="https://github.com/user-attachments/assets/7afd3fa3-4659-4070-b161-a9c688d7636f" />
-
-<img width="346" height="463" alt="image" src="https://github.com/user-attachments/assets/0b9d9b5e-0872-48d9-8f6f-0699e2556497" />
+<br>
+<br>
+<br>
+<img width="331" height="639" alt="image" src="https://github.com/user-attachments/assets/93eb8017-cc3c-4b96-9fb9-e6772781c20f" />
+<br>
+<br>
+<br>
+<img width="330" height="641" alt="image" src="https://github.com/user-attachments/assets/1a8494aa-fbce-40a5-af0d-3a4f1def343d" />
 
 
 
