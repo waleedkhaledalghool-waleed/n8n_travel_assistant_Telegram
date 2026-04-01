@@ -6,4 +6,7 @@ trigger by sending to the bot on telegram -> check message contents - > if voice
 
 # the bad news
 The project got deleted before I could export it:
+<br>
+<br>
+<br>
 <img width="624" height="234" alt="image" src="https://github.com/user-attachments/assets/8d8d74f1-daee-4d8e-81f4-ccedeb96edad" />
