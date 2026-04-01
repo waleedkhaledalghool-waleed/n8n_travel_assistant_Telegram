@@ -18,9 +18,9 @@ I still have the results:
 <br>
 <img width="346" height="463" alt="image" src="https://github.com/user-attachments/assets/1153f214-3f68-4c40-81bb-7fa7ab58195c" />
 
-<img width="727" height="1600" alt="image" src="https://github.com/user-attachments/assets/7afd3fa3-4659-4070-b161-a9c688d7636f" />
+<img width="346" height="463" alt="image" src="https://github.com/user-attachments/assets/7afd3fa3-4659-4070-b161-a9c688d7636f" />
 
-<img width="727" height="1600" alt="image" src="https://github.com/user-attachments/assets/0b9d9b5e-0872-48d9-8f6f-0699e2556497" />
+<img width="346" height="463" alt="image" src="https://github.com/user-attachments/assets/0b9d9b5e-0872-48d9-8f6f-0699e2556497" />
 
 
 
